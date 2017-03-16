@@ -17,6 +17,16 @@
 - **粗体**
 - *斜体*
 #### 代码
-`for(var i=0;i<10;i++){
-	console.info("haha");
-}`
+`for(var i=0;i<10;i++)`
+{
+	console.info("测试");
+`}`
+#### 表格
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+#### 分割线
+***
+
